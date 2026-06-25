@@ -22,7 +22,7 @@ Generar un buffer de 2000 metros alrededor de zonas de riesgo de inundación y c
 
 ## Mapa generado
 
-! [Mapa Buffer](../resultados/buffer_mapa.png)
+![Mapa Buffer](../resultados/buffer_mapa.png)
 
 ## Resultados
 
