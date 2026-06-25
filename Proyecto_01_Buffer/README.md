@@ -20,6 +20,10 @@ Generar un buffer de 2000 metros alrededor de zonas de riesgo de inundación y c
 5. Exportación de resultados.
 6. Generación de mapa temático.
 
+## Mapa generado
+
+! [Mapa Buffer](../resultados/buffer_mapa.png)
+
 ## Resultados
 
 Se obtuvo la delimitación de las zonas de influencia y su intersección espacial.
